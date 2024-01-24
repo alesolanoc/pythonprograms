@@ -4,6 +4,13 @@ def my_string(value):
     open_char = "({["
     close_char = ")}]"
     print(value)
+    print("asdf1")
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
+                    print("asdf1")
+                        print("asdf1")
+                        
     j = 0
     stack = []
     for i in range(len(value)):
@@ -30,6 +37,8 @@ def my_string(value):
          #   print("exito", stack[len(stack)-1],"   ",value[i])
     print("sdfsdfsdf ",close_char[0])
     print("stack:",stack)
+        print("asdf1")
+            print("asdf1")
     if len(stack) > 0:
         return False
     else:
@@ -41,3 +50,7 @@ value = input("Insert a string: ")
 print(value)
 valor = my_string(value)
 print(valor)
+    print("asdf1")
+        print("asdf1")
+            print("asdf1")
+            

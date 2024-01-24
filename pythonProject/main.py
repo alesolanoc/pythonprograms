@@ -7,6 +7,10 @@
 def print_hi(name,cadena,buscar,ciclo):
     tamano = len(cadena)
     found = 0
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
+                    print("asdf1")
     if ciclo==1:
        for i in range(0,tamano):
             print(cadena[i])
@@ -42,5 +46,11 @@ if __name__ == '__main__':
     print(valeu)
     valeu = print_hi('PyCharm',cadena,buscar,2)
     print(valeu)
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
+                    print("asdf1")
+                        print("asdf1")
+                        
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

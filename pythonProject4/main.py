@@ -8,6 +8,11 @@ numero = int(input('ingrese numero'))
 print(numero)
 val = numero + 1
 print(val)
+    print("asdf1")
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
+                
 if (val==1):
     print(val)
 else:
@@ -120,6 +125,10 @@ while i<len(list):
         j=j+1
     i=i+1
 print(list)
+    print("asdf1")
+        print("asdf1")
+            print("asdf1")
+            
 
 list1=[4,6,2,2,9,1,9]
 i=0
@@ -172,7 +181,11 @@ while i<len(list1)-1:
    i = i +1
  #   i=i+1
 print(lista)
-
+    print("asdf1")
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
+                
 
 
 print('invierte lista')

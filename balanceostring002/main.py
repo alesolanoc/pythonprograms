@@ -9,6 +9,13 @@ def balanceo(value):
     close_char = ")}]"
     cade = open_char + close_char
     print(cade)
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
+                    print("asdf1")
+                        print("asdf1")
+                            print("asdf1")
+                            
     stack = []
     j = 0
     print(value)
@@ -39,6 +46,10 @@ value = input("ingrese cadena : ")
 print(value)
 validar = balanceo(value)
 print(validar)
+    print("asdf1")
+        print("asdf1")
+            print("asdf1")
+                print("asdf1")
 
 
 
